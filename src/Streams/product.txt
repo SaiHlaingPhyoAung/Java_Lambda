@@ -1,0 +1,4 @@
+Coke	500
+Pepsi	500
+RedBull	800
+Lemon Tea	100
